@@ -1,0 +1,8 @@
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [/home/mj/rvx_tutorial_mj2/rvx_install/mini_git/imp_class_info/genesys2/pinmap/spi_flash.xdc:22]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [/home/mj/rvx_tutorial_mj2/rvx_install/mini_git/imp_class_info/genesys2/pinmap/spi_flash.xdc:23]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [/home/mj/rvx_tutorial_mj2/rvx_install/mini_git/imp_class_info/genesys2/pinmap/spi_flash.xdc:24]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [/home/mj/rvx_tutorial_mj2/rvx_install/mini_git/imp_class_info/genesys2/pinmap/spi_flash.xdc:25]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [/home/mj/rvx_tutorial_mj2/rvx_install/mini_git/imp_class_info/genesys2/pinmap/spi_flash.xdc:26]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [/home/mj/rvx_tutorial_mj2/rvx_install/mini_git/imp_class_info/genesys2/pinmap/boot_mode.xdc:21]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [/home/mj/rvx_tutorial_mj2/rvx_install/mini_git/imp_class_info/genesys2/pinmap/boot_mode.xdc:22]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [/home/mj/rvx_tutorial_mj2/rvx_install/mini_git/imp_class_info/genesys2/pinmap/led.xdc:18]
